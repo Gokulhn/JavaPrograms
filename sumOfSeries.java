@@ -20,4 +20,5 @@ public class sumOfSeries {
 		}
 		return s;
 	}
+	//done
 }

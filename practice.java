@@ -21,7 +21,7 @@ public class practice {
 		return rev(sum);
 	}
 
-	private static int rev(int sum) {
+	public static int rev(int sum) {
 		int d = 0;
 		while (sum != 0) {
 			int b = sum % 10;
